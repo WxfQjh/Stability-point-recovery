@@ -8,16 +8,11 @@ python version: python-3.7;  cuda version: cuda-11;
 ## Datasets
  [PCN's dataset](https://github.com/wentaoyuan/pcn)  
     
-## Train the model
-To train the models: python train.py  
+## Pretrain Encoder-Decoder module
+To pretrain the module: python train.py  
 
-    
-
-## Evaluate the models
-
-To evaluate models in different cases: python test.py  
-
-
+## Pretrain WGAN module
+To pretrain the module: python WGANTrainer.py  
 
 ## Acknowledgements 
 Our implementations use the code from the following repository:  
