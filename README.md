@@ -18,4 +18,5 @@ To pretrain the module: python WGANTrainer.py
 Our implementations use the code from the following repository:  
 [PCN](https://github.com/wentaoyuan/pcn)     
 [PointNet++](https://github.com/charlesq34/pointnet2)   
-[PCT](https://github.com/MenghaoGuo/PCT)
+[PCT](https://github.com/MenghaoGuo/PCT)   
+[External Attention](https://github.com/MenghaoGuo/EANet)
