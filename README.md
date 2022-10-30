@@ -3,7 +3,7 @@
 This is the Pytorch implementation for the paper "Stability point cloud recovery based on WGAN with Transformer"
 
 ## Getting Started
-python version: python-3.5;  cuda version: cuda-10;  TensorFlow version: tensorflow-1.13
+python version: python-3.7;  cuda version: cuda-11;  
 
 ## Datasets
  [PCN's dataset](https://github.com/wentaoyuan/pcn)  
