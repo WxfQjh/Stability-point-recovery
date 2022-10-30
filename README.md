@@ -23,5 +23,4 @@ To evaluate models in different cases: python test.py
 Our implementations use the code from the following repository:  
 [PCN](https://github.com/wentaoyuan/pcn)     
 [PointNet++](https://github.com/charlesq34/pointnet2)
-
 [PCT](https://github.com/MenghaoGuo/PCT)
