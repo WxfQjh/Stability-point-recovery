@@ -1,4 +1,4 @@
-## Stability point cloud recovery based on WGAN with Transformer
+## Completing point cloud from few points by Wasserstein GAN and Transformers
 
 This is the Pytorch implementation for the paper "Stability point cloud recovery based on WGAN with Transformer"
 
