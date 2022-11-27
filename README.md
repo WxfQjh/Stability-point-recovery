@@ -1,6 +1,6 @@
 ## Completing point cloud from few points by Wasserstein GAN and Transformers
 
-This is the Pytorch implementation for the paper "Stability point cloud recovery based on WGAN with Transformer"
+This is the Pytorch implementation for the paper "Completing point cloud from few points by Wasserstein GAN and Transformers"
 
 ## Getting Started
 python version: python-3.7;  cuda version: cuda-11;  
